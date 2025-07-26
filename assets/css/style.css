@@ -1,0 +1,21 @@
+nav > ul > li{
+    margin-right: 15px;
+    text-align: right;
+    display: inline;
+}
+nav > ul {
+    text-decoration: none;
+    text-align: right;
+}
+.blog{
+    height: 100px;
+    width: 100px;
+    border-radius: 10ps solid tomato;
+    text-align: justify;
+}
+p{
+    margin: 10px;
+}
+#Blog{
+    display: inline-flex;
+}
